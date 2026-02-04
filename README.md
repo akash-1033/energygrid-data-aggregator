@@ -11,8 +11,10 @@ Complete solution for the EnergyGrid Data Aggregator coding assignment.
 
 1. Start the mock API:
 ```bash
+   cd energygrid-data-aggregator
    cd mock-api
-   npm install && npm start
+   npm install
+   npm start
 ```
 
 You should see:
@@ -22,8 +24,10 @@ You should see:
 ```
 2. Run the client (new terminal):
 ```bash
+   cd energygrid-data-aggregator
    cd energygrid-client
-   npm install && npm start
+   npm install
+   npm start
 ```
 Take about ~50 seconds
 Create an output/ folder with results
